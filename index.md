@@ -1,46 +1,15 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: 做自己喜欢做的事？
+tagline:
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+很长一段时间以来，这样的一个问题在困扰着我。我不知道自己想要什么，不知道自己能做什么，甚至不知道自己喜欢什么，所以我很迷茫，整个人态度很消极。可能我比较容易想太多吧，我无法做到像一些人一样什么都不想的过一天是一天。当我觉得不能这样过下去的时候，我想我该做一些事情了。我开始背单词，因为大家都说英语很重要；我开始学习专业课，不知道谁告诉过我一定要学好专业课；我开始弹吉他，这样不至于每次写爱好特长都和一堆人重样。那段时间我把自己搞得很忙，有课就去按时上课，没课还积极去图书馆。可是没多久我就发现，这些事情我一件都没做好。还把自己搞得很累。究其原因，我觉得这些事情没有一件是我想去做的，只是根据别人的经验我觉得该做而已。
 
-## Update Author Attributes
+#Unfinished...
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+#如何界定喜欢
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+#究竟要不要做
