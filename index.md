@@ -1,15 +1,11 @@
 ---
 layout: page
-title: 做自己喜欢做的事？
-tagline:
+title: Do what I love
+tagline: 
 ---
 {% include JB/setup %}
 
 
-很长一段时间以来，这样的一个问题在困扰着我。我不知道自己想要什么，不知道自己能做什么，甚至不知道自己喜欢什么，所以我很迷茫，整个人态度很消极。可能我比较容易想太多吧，我无法做到像一些人一样什么都不想的过一天是一天。当我觉得不能这样过下去的时候，我想我该做一些事情了。我开始背单词，因为大家都说英语很重要；我开始学习专业课，不知道谁告诉过我一定要学好专业课；我开始弹吉他，这样不至于每次写爱好特长都和一堆人重样。那段时间我把自己搞得很忙，有课就去按时上课，没课还积极去图书馆。可是没多久我就发现，这些事情我一件都没做好。还把自己搞得很累。究其原因，我觉得这些事情没有一件是我想去做的，只是根据别人的经验我觉得该做而已。
+For a long time, I was a conformist person. I have never done something wrong people think, because I always do something that should to do. I never know what I want, sometimes I'm interested in something, but I think I should do these or do those, so I never really to do it.
 
-#Unfinished...
-
-#如何界定喜欢
-
-#究竟要不要做
+Unfinished...
