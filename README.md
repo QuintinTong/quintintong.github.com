@@ -2,6 +2,6 @@
 
 ------
 
-*Name*: tongqi
+*Author*: tongqi
 
 *Contact*: tongqivip@gmail.com 
