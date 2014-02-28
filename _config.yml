@@ -13,7 +13,7 @@ tagline: 'Stay curious, Stay real'
 author : 
   name : Qi Tong
   email : tongqivip@gmail.com
-  github : username
+  github : quintintong
   twitter : username
   feedburner : feedname
 
@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : qitong
+      short_name : curiositytong
     livefyre :
       site_id : 123
     intensedebate :
