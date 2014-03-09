@@ -145,3 +145,18 @@
    border-bottom: 2px #cccccc solid;
    width: 100%;
 }
+
+.char1, .char4,  .char7, .char11, .char14
+{
+  color: rgb(255,0,0);
+}
+
+.char2, .char5, .char8, .char12
+{
+  color: rgb(0,225,0);
+}
+
+.char3, .char6, .char9, .char13
+{
+  color: rgb(0,0,225);
+}
