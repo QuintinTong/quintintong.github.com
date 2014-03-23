@@ -37,7 +37,7 @@ And as long as you're seeking My face,
 You'll walk in the power of My daily sufficient grace."
 You are so patient with me, Lord.
 
-
+<!-- more -->
 As I walk with You, I'm learning what Your grace really means.
 The price that I could never pay was paid at Calvary.
 So, instead of trying to repay You, I'm learning to simply obey You
