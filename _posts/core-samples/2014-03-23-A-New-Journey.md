@@ -8,8 +8,11 @@ tags : [个人]
 
 
 My heart is so proud. My mind is so unfocused.
+
 I see the things You do through me as great things I have done.
+
 And now You gently break me, then lovingly You take me
+
 And hold me as my father and mold me as my maker.
 
 
